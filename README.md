@@ -1,6 +1,6 @@
 # README
 
-# Processing Power and Efficiency:
+## Processing Power and Efficiency:
 
 CPU: Optimized for versatility and single-threaded performance.
 GPU: Optimized for parallel processing and graphics rendering.
