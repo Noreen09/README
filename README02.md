@@ -4,15 +4,24 @@ GPTs, or Generative Pre-trained Transformers, are a type of artificial intellige
 
 ## Features of GPTs
 Natural Language Understanding and Generation
+
 Versatility
+
 Pre-training and Fine-tuning
+
 Context Awareness
+
 Multilingual Support
+
 Scalability
 
 ## Use Cases of Custom GPTs
 Customer Support
+
 Content Creation
+
 Education and Tutoring
+
 Marketing and Advertising
+
 Personal Assistants
